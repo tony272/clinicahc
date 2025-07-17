@@ -1,6 +1,5 @@
 /*
-* BookMedik PRO Database
-* @author Evilnapsis
+* Database
 */
 drop database bookmedikpro;
 create database bookmedikpro;
