@@ -1,2 +1,2 @@
-# bookmedik-pro
-Sistema de Gestion de Citas Medicas PRO
+# CLINICAHC
+Sistema de Gestion de Citas Medicas
